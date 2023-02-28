@@ -17,6 +17,7 @@ public class principal {
     public static void main(String[] args) 
     {
         System.out.println("ESTE ES EL MAIN DEL GITHUB");
+        System.out.println("PRUEBA 2");
     }
     
 }
