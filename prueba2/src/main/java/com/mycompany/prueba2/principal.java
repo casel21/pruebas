@@ -18,6 +18,8 @@ public class principal {
     {
         System.out.println("ESTE ES EL MAIN DEL GITHUB");
         System.out.println("PRUEBA 2");
+        clase n1=new clase("pepe");
+        n1.verdatos();
     }
     
 }
